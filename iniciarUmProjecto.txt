@@ -1,0 +1,13 @@
+md lojaOnline
+
+cd lojaOnline
+
+nmp init
+
+introduzir dados ou deixar default » vai criar o package.json
+
+npm install cypress
+
+criar repositório no GitHub
+
+(dentro da pasta lojaOnline) criar o ficheiro .gitignore » adicionar ao ficheiro » node_modules/ 
